@@ -1,6 +1,4 @@
 # Survey-Form
-
-# POC - Scheduling Tasks with Quartz
 This little project is a simple Survey formulary created to train the behavior and how CSS works about his properties.
 
 ## Setup
